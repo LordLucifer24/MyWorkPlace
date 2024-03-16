@@ -4,8 +4,8 @@ Hey this is the place where i'll be uploading and saviing all my files and the n
 
 <hr><br>
 
-# Author- LordLucifer a.k.a Shourya <br>
-# Location- Jharkhand
+<h3> Author- LordLucifer a.k.a Shourya </h3>
+<h3> Location- Jharkhand </h3>
 
 
 <h1>How to Clone or Download This Repository</h1>
