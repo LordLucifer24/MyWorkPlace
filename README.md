@@ -1,12 +1,12 @@
-# MyWorkPlace
+# Lucifer's World
 
 Hey this is the place where i'll be uploading and saviing all my files and the new codes.
 
 <hr><br>
-Author- LordLucifer a.k.a Shourya<br>
-Location- Jharkhand
 
-<title>How to Clone or Download This Repository</title>
+# Author- LordLucifer a.k.a Shourya <br>
+# Location- Jharkhand
+
 
 <h1>How to Clone or Download This Repository</h1>
 
@@ -15,8 +15,10 @@ Location- Jharkhand
 <ol>
   <li><strong>Clone the Repository:</strong></li>
   <p>To clone this repository to your local machine, follow these steps:</p>
+  <p>Go to your terminal and paste the following code there:</p>
   <pre><code>git clone https://github.com/LordLucifer24/MyWorkPlace</code></pre>
-  <p>Replace <code>your-username</code> with your GitHub username and <code>your-repository</code> with the name of this repository.</p>
+  <p>Now you'll have saved/cloned these codes in your Local-machine </p>
+ 
 
   <li><strong>Download ZIP:</strong></li>
   <p>If you prefer not to use Git, you can download the repository as a ZIP file:</p>
