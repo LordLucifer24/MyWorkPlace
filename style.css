@@ -1,0 +1,97 @@
+* {
+  margin: 5;
+  padding: 3;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(238, 245, 245);
+  font-size: 15px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+/* #figure{
+    width: 50px;
+    height: 50px;
+} */
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  background-color: aquamarine;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+  text-decoration: none;
+  background-color: aquamarine;
+}
+li a:hover {
+  background-color: #f02f59;
+}
+figure {
+  display: flex;
+  flex-direction: column; /* Ensure the content is stacked vertically */
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  position: relative; /* Enable absolute positioning for the caption */
+}
+
+figcaption {
+  font-size: 20px;
+  font-weight: 500;
+  position: absolute; /* Position the caption relative to its parent */
+  bottom: 0; /* Align the caption to the bottom */
+}
+
+#menu {
+  text-align: center; /* Center the content horizontally */
+}
+
+.menu {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
+}
+
+table {
+  flex: 1; /* Equal width for both table and image */
+  max-width: 50%; /* Set a maximum width for the table */
+  margin-right: 10px; /* Adjust spacing between table and image */
+}
+
+img {
+  max-width: 100%; /* Ensure the image does not exceed its container's width */
+  height: auto; /* Maintain the image's aspect ratio */
+  margin-top: 10px; /* Add some space between the table and the image */
+}
+
+
+button {
+  border-radius: 10px;
+  border-color: pink;
+}
+
+.back-to-top {
+  position: absolute;
+  right: 0;
+  padding-right: 2%;
+  font-size: 20px;
+}
+#copyright {
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
