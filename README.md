@@ -15,7 +15,7 @@ Location- Jharkhand
 <ol>
   <li><strong>Clone the Repository:</strong></li>
   <p>To clone this repository to your local machine, follow these steps:</p>
-  <pre><code>git clone https://github.com/your-username/your-repository.git</code></pre>
+  <pre><code>git clone https://github.com/LordLucifer24/MyWorkPlace</code></pre>
   <p>Replace <code>your-username</code> with your GitHub username and <code>your-repository</code> with the name of this repository.</p>
 
   <li><strong>Download ZIP:</strong></li>
