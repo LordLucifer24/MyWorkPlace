@@ -3,5 +3,5 @@
 Hey this is the place where i'll be uploading and saviing all my files and the new codes here.
 
 <hr><br>
-Author- Gourinath
-Location- Giridih
+Author- LordLucifer a.k.a Shourya
+Location- jharkhand
